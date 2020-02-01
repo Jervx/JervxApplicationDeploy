@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src ="data.js"></script>
+    <script src ="options.js"></script>
+    <script src ="dumbAI.js"></script>
+    <link rel="stylesheet" href="indexStyle.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="text-align:center"> Tic Tac Toe </h1>
+    <div id="content">
+        <center>
+            <table>
+                <tr>
+                    <td><button onclick=" btCl(event)" class="b1" id="0" value="0"> </button></td>
+                    <td><button onclick=" btCl(event)" class="b2" id="0" value="1"> </button></td>
+                    <td><button onclick=" btCl(event)" class="b3" id="0" value="2"> </button></td>
+                </tr>
+                <tr>
+                    <td><button onclick=" btCl(event)" class="b4" id="1" value="0"> </button></td>
+                    <td><button onclick=" btCl(event)" class="b5" id="1" value="1"> </button></td>
+                    <td><button onclick=" btCl(event)" class="b6" id="1" value="2"> </button></td>
+                </tr>
+                <tr>
+                    <td><button onclick=" btCl(event)" class="b7" id="2" value="0"> </button></td>
+                    <td><button onclick=" btCl(event)" class="b8" id="2" value="1"> </button></td>
+                    <td><button onclick=" btCl(event)" class="b9" id="2" value="2"> </button></td>
+                </tr>
+            </table>
+        </center>
+        <div class="scoreBoard" id="scoreBoard">
+            <p id="coming_soon" style ="font-size:30px;padding-bottom:20px;text-align: center;">Choose Game Mode</p>
+            <button id="options1" onclick="startDumb()" style="width:100%">Human Against dumbAI</button><br>
+            <button id="options2" onclick="p1p2()"  style="width:100%">Human Vs Human</button>
+            <br>
+            <p id="coming_soon" style ="font-size:14px;text-align: center;">▓  UNBEATABLE AI Comming Soon!  ▓</p>
+        </div>
+    </div>
+    <center>
+        <p id="arigathanks">Thank You for Playing</p>
+        <br>
+    </center>
+    <footer>
+        <center>
+            <div id="footerDiv">
+                <img src="img.svg">
+                <div class="socials">
+                    <div id="card1">
+                        <p style="font-family:monospace;">Follow Me </p>
+                        <div id="links">
+                            <a href="https://www.facebook.com/jerbee.paragas"><img src="facebook-old.svg"></a>
+                            <a href="https://twitter.com/JerbeeParagas"><img src="twitter.svg"></a>
+                            <a href="https://www.instagram.com/jerbcxz/?hl=en"><img src="instagram.svg"></a>
+                            <a href="https://www.youtube.com/channel/UC3QTPgaiEML1XwoD48wtRZA"><img src="youtube.svg"></a>
+                        </div>
+                        <br>
+                    </div>
+                </div>
+            </div>
+            <p>Copyright © 2020 Jerbee Paragas  All Rights Reserved</p>
+        </center>
+        <script src="scrpt.js"></script>
+    </footer>
+</body>
+</html>
+
+<!--
+    /*
+ Copyright © Jerbee Paragas 1/31/2020 
+
+ ATTENTION: -------------------------------------------------------------------------------------
+    if you opened this source code your IP will be
+    tracked by GITHUB. Don't worry as long as you are not copying
+    the code, screenshot, you will be fine.
+ 
+ Message: 
+    This is my own algorithm and you should not copy 
+    it without my concent. 
+    NOTE: You should not copy comeone else's code!
+ 
+<important>--------------------------------------------------------------------------------------
+ LICENSE: Apache License 2.0
+
+ A permissive license whose main conditions require preservation of copyright and license notices. 
+ Contributors provide an express grant of patent rights. Licensed works, modifications, and larger
+ works may be distributed under different terms and without source code.
+<!important!>-------------------------------------------------------------------------------------
+ */
+-->
