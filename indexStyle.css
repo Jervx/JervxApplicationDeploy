@@ -228,3 +228,88 @@ center p{
 #card1{
     margin-top:10%;
 }
+
+#lck{
+    text-transform:uppercase;
+    margin-top:50px;
+    font-family:'Gaegu';
+    padding-bottom:5px
+}
+
+@media screen and (max-width:480px) {
+
+    #content{
+        display:block;
+        height:100%;
+        padding:auto;
+        align-items: center;
+    }  
+    
+    .scoreBoard{
+        width: 100%;
+        text-align: center;
+        display:block;
+    }
+
+    .scoreBoard{
+        margin-top:1px;
+    }
+
+    .scoreBoard button{
+        margin-top:1px;
+        background-color: rgb(225, 227, 230);
+        color:rgb(109, 109, 109);
+    }
+    
+    footer{
+        padding-bottom:30px;
+    }
+
+    #footerDiv{
+        display:block;
+        justify-content: space-evenly;
+    }
+
+    #me{
+        width:20px;
+        margin-top:0px;
+        padding-bottom:0px;
+    }
+
+    #lck{
+        text-transform:uppercase;
+        margin-top:50px;
+        font-family:'Gaegu';
+        padding-bottom:5px;
+        font-size: 14px;
+    }
+
+    .socials{
+        padding-bottom:20px;
+    }
+
+    #lck a{
+        font-size:9px;
+    }
+
+    center{
+        margin-top:2%;
+    }
+
+    table{
+        width: 80%;
+        height: 5%;
+    }
+
+    #winStat{
+        font-size: 35px;
+    }
+
+    #card1{
+        margin-top: 2px;
+    }
+
+    #card1 p{
+        margin-top:0px;
+    }
+}
