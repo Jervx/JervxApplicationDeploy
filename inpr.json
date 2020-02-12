@@ -17,7 +17,7 @@
 {"no":"12","question":"Is used to define a structure. It defines new data type, with more than one member","answer":"Struct Statement","exam":"midterm","lesson":"2"},
 {"no":"13","question":"True or False : Structure Variable can be declared with structure declaration or as a separate declaration like basic types.","answer":"True","exam":"midterm","lesson":"2"},
 {"no":"14","question":"True or False: Structure members can be initialized using curly braces {}?","answer":"True","exam":"midterm","lesson":"2"},
-{"no":"15","question":"Structure Tag is an optional and each member definition is a normal variable definition.","answer":"True","exam":"midterm","lesson":"2"},
+{"no":"15","question":"True or False: Structure Tag is an optional and each member definition is a normal variable definition.","answer":"True","exam":"midterm","lesson":"2"},
 {"no":"16","question":"In structure we use member access operator which is the symbol _ ","answer":".","exam":"midterm","lesson":"2"},
 {"no":"17","question":"It is the period between the structure variable name and the structure member users wish to access.","answer":"Member Access Operator","exam":"midterm","lesson":"2"},
 {"no":"18","question":"Means to feed some data into a program.","answer":"Input","exam":"midterm","lesson":"3"},
