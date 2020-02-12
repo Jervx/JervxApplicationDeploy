@@ -11,7 +11,7 @@
 {"no":"6","question":"This Symbol is also called as Reference Operator","answer":"&","exam":"midterm","lesson":"1"},
 {"no":"7","question":"Give the Printf Format (Format Specifier) to output variable address into a hexa decimal","answer":"%x","exam":"midterm","lesson":"1"},
 {"no":"8","question":"when we increment or decrement pointer, it is now called the process of ____ ______","answer":"Pointer Arithmetic","exam":"midterm","lesson":"1"},
-{"no":"9","question":"It define arrays to hole a number of pointers","answer":"Array of Pointers","exam":"midterm","lesson":"1"},
+{"no":"9","question":"It define arrays to hold a number of pointers","answer":"Array of Pointers","exam":"midterm","lesson":"1"},
 {"no":"10","question":"It is another user-defined data type available in C that allows to combine different kinds.","answer":"Structure","exam":"midterm","lesson":"1"},
 {"no":"11","question":"Are used to represent a record like students record, book record, employees record, etc.","answer":"Structure","exam":"midterm","lesson":"2"},
 {"no":"12","question":"Is used to define a structure. It defines new data type, with more than one member","answer":"Struct Statement","exam":"midterm","lesson":"2"},
