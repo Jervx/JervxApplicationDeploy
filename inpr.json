@@ -9,15 +9,15 @@
 {"no":"4","question":"Symbol used to denote a pointer Variable","answer":"*","exam":"midterm","lesson":"1"},
 {"no":"5","question":"It is the symbol used to access the address of the variable","answer":"&","exam":"midterm","lesson":"1"},
 {"no":"6","question":"This Symbol is also called as Reference Operator","answer":"&","exam":"midterm","lesson":"1"},
-{"no":"7","question":"Give the PrintFormat to output variable address into a hexa decimal","answer":"%x","exam":"midterm","lesson":"1"},
-{"no":"8","question":"when we increment or decrement pointer, it is no called the process of ____ ______","answer":"Pointer Arithmetic","exam":"midterm","lesson":"1"},
+{"no":"7","question":"Give the Printf Format (Format Specifier) to output variable address into a hexa decimal","answer":"%x","exam":"midterm","lesson":"1"},
+{"no":"8","question":"when we increment or decrement pointer, it is now called the process of ____ ______","answer":"Pointer Arithmetic","exam":"midterm","lesson":"1"},
 {"no":"9","question":"It define arrays to hole a number of pointers","answer":"Array of Pointers","exam":"midterm","lesson":"1"},
 {"no":"10","question":"It is another user-defined data type available in C that allows to combine different kinds.","answer":"Structure","exam":"midterm","lesson":"1"},
 {"no":"11","question":"Are used to represent a record like students record, book record, employees record, etc.","answer":"Structure","exam":"midterm","lesson":"2"},
 {"no":"12","question":"Is used to define a structure. It defines new data type, with more than one member","answer":"Struct Statement","exam":"midterm","lesson":"2"},
 {"no":"13","question":"True or False : Structure Variable can be declared with structure declaration or as a separate declaration like basic types.","answer":"True","exam":"midterm","lesson":"2"},
 {"no":"14","question":"True or False: Structure members can be initialized using curly braces {}?","answer":"True","exam":"midterm","lesson":"2"},
-{"no":"15","question":"Is an optional and each member definition is a normal variable definition.","answer":"True","exam":"midterm","lesson":"2"},
+{"no":"15","question":"Structure Tag is an optional and each member definition is a normal variable definition.","answer":"True","exam":"midterm","lesson":"2"},
 {"no":"16","question":"In structure we use member access operator which is the symbol _ ","answer":".","exam":"midterm","lesson":"2"},
 {"no":"17","question":"It is the period between the structure variable name and the structure member users wish to access.","answer":"Member Access Operator","exam":"midterm","lesson":"2"},
 {"no":"18","question":"Means to feed some data into a program.","answer":"Input","exam":"midterm","lesson":"3"},
@@ -63,7 +63,11 @@
 {"no":"58","question":"This function writes the string s to the output streamed reference by fp. It return a non negative value on success. otherwise EOF is returned in anycase of any error.","answer":"fputs","exam":"midterm","lesson":"4"},
 {"no":"59","question":"this function directly writes into the file while fscanf reads from the file","answer":"fprintf","exam":"midterm","lesson":"4"},
 {"no":"60","question":"This function is used for reading character from the input file","answer":"fgetc","exam":"midterm","lesson":"4"},
-{"no":"61","question":"this function reads from n-1 character from the input stream referenced by fp","answer":"fgets","exam":"midterm","lesson":"4"}
+{"no":"61","question":"this function reads from n-1 character from the input stream referenced by fp","answer":"fgets","exam":"midterm","lesson":"4"},
+{"no":"62","question":"How many bytes an int data type have?(Note: Do not include the word bytes || byte)","answer":"4","exam":"midterm","lesson":"4"},
+{"no":"63","question":"How many bytes a char data type have?(Note: Do not include the word bytes || byte)","answer":"1","exam":"midterm","lesson":"4"},
+{"no":"64","question":"How many bytes a float data type have?(Note: Do not include the word bytes || byte)","answer":"4","exam":"midterm","lesson":"4"},
+{"no":"65","question":"How many bytes a double data type have?(Note: Do not include the word bytes || byte)","answer":"8","exam":"midterm","lesson":"4"},
 ]
 }
 ]
