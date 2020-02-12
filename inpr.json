@@ -67,7 +67,7 @@
 {"no":"62","question":"How many bytes an int data type have?(Note: Do not include the word bytes || byte)","answer":"4","exam":"midterm","lesson":"4"},
 {"no":"63","question":"How many bytes a char data type have?(Note: Do not include the word bytes || byte)","answer":"1","exam":"midterm","lesson":"4"},
 {"no":"64","question":"How many bytes a float data type have?(Note: Do not include the word bytes || byte)","answer":"4","exam":"midterm","lesson":"4"},
-{"no":"65","question":"How many bytes a double data type have?(Note: Do not include the word bytes || byte)","answer":"8","exam":"midterm","lesson":"4"},
+{"no":"65","question":"How many bytes a double data type have?(Note: Do not include the word bytes || byte)","answer":"8","exam":"midterm","lesson":"4"}
 ]
 }
 ]
