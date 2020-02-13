@@ -65,7 +65,7 @@
 {"no":"60","question":"is often used if you want to make sure information comes through to the user.\r\n","answer":"Alert box","exam":"midterm","lesson":"1"},
 {"no":"61","question":" is often used if you want the user to verify or accept something.\r\n","answer":"Confirm Box","exam":"midterm","lesson":"1"},
 {"no":"62","question":"is often used if you want the user to input a value before entering a page.\r\n","answer":"prompt box ","exam":"midterm","lesson":"1"},
-{"no":"63","question":"Give all conditional statements (should be in order and separated with comma ',' )","answer":"if, if else,if else if else,","exam":"midterm","lesson":"1"},
+{"no":"63","question":"Give all conditional statements (should be in order and separated with comma ',' )","answer":"if, if else,if else if else","exam":"midterm","lesson":"1"},
 {"no":"65","question":"What is the output of the following code:<br><br><br>\r\n<pre style=\"text-align: left; font-size:14px; color:gray; font-family:monospace\">\r\n        var x = 1;\r\n        var y = 5;\r\n        \r\n        x++;\r\n        y++;\r\n        x += ++y;\r\n \r\n        document.write(x);\r\n<\/pre>\r\n","answer":"9","exam":"midterm","lesson":"1"},
 {"no":"66","question":"_______ ______ - is a block of code designed to perform a particular task","answer":"JavaScript Function","exam":"midterm","lesson":"1"},
 {"no":"67","question":"A JavaScript function is executed when \"something\" _______ it or (calls it)","answer":"Invokes","exam":"midterm","lesson":"1"},
