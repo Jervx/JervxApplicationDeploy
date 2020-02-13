@@ -1,0 +1,30 @@
+[
+{"type":"header","version":"4.9.2","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"school"},
+{"type":"table","name":"webdev","database":"school","data":
+[
+{"no":"1","question":"A _________ is something that explains the relationship between the selectors.","answer":"combinator","exam":"midterm","lesson":"1"},
+{"no":"2","question":"A ___ ______ can contain more than one simple selector. Between the simple selectors, we can include a combinator.","answer":"CSS selector","exam":"midterm","lesson":"1"},
+{"no":"3","question":"There are four different combinators in CSS: Give all","answer":"descendant selector,child selector,adjacent sibling selector,general sibling selector","exam":"midterm","lesson":"1"},
+{"no":"4","question":"The ________ ______ matches all elements that are descendants of a specified element.","answer":"descendant selector","exam":"midterm","lesson":"1"},
+{"no":"5","question":"The _______ ____ selects all elements that are the children of a specified element.","answer":"child selector","exam":"midterm","lesson":"1"},
+{"no":"6","question":"The ______ _____ ___ selects all elements that are the adjacent siblings of a specified element.","answer":"adjacent sibling selector","exam":"midterm","lesson":"1"},
+{"no":"7","question":"The ______ ______ ____ selects all elements that are siblings of a specified element.","answer":"general sibling selector","exam":"midterm","lesson":"1"},
+{"no":"8","question":"this selector is used to select the element that is the nth child, of a particular type, of its parent.","answer":":nth-of-type()","exam":"midterm","lesson":"1"},
+{"no":"9","question":"________ is used in millions of Web pages to improve the design, validate forms, detect browsers, create cookies, and much more.","answer":"JavaScript","exam":"midterm","lesson":"1"},
+{"no":"10","question":"is the most popular scripting language on the internet, and works in all major browsers, such as Internet Explorer, Mozilla, Firefox, Netscape, Opera.\r\n","answer":"JavaScript","exam":"midterm","lesson":"1"},
+{"no":"11","question":"are used to store data","answer":"Variables","exam":"midterm","lesson":"1"},
+{"no":"12","question":"is a \"container\" for information you want to store. A variable's value can change during the script. You can refer to a variable by name to see its value or to change its value.","answer":"Variable","exam":"midterm","lesson":"1"},
+{"no":"13","question":"give all assignment operators in javascript","answer":"=,+=,-=,*=,\/=,%=","exam":"midterm","lesson":"1"},
+{"no":"14","question":"This symbol means equal to","answer":"==","exam":"midterm","lesson":"1"},
+{"no":"15","question":"This symbol means equal to (checks for both value and type)","answer":"===","exam":"midterm","lesson":"1"},
+{"no":"16","question":"Give all arithmetic operator","answer":"+,-,*,\/,%,++,--","exam":"midterm","lesson":"1"},
+{"no":"17","question":"Give all comparison operators","answer":"==,===,!=,!,>,<,>=,<=","exam":"midterm","lesson":"1"},
+{"no":"18","question":"Give all logical operators","answer":"&&,||,!","exam":"midterm","lesson":"1"},
+{"no":"19","question":"is often used if you want to make sure information comes through to the user.\r\n","answer":"Alert box","exam":"midterm","lesson":"1"},
+{"no":"20","question":" is often used if you want the user to verify or accept something.\r\n","answer":"Confirm Box","exam":"midterm","lesson":"1"},
+{"no":"21","question":"is often used if you want the user to input a value before entering a page.\r\n","answer":"prompt box ","exam":"midterm","lesson":"1"},
+{"no":"22","question":"Give all conditional statements","answer":"if, if else,if else if else,","exam":"midterm","lesson":"1"}
+]
+}
+]
