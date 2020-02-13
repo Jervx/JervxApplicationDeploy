@@ -28,7 +28,7 @@
 {"no":"23","question":"True or False: CSS declaration groups are surrounded by curly brackets ({})\r\n","answer":"True","exam":"midterm","lesson":"1"},
 {"no":"24","question":"All Property need to have its _____","answer":"Value","exam":"midterm","lesson":"1"},
 {"no":"25","question":"_______ - Loses many of the advantage of style sheets by mixing content with presentation. Use this method sparingly such as when  a style is to be applied to a single occurrence of an element.","answer":"Inline Styles","exam":"midterm","lesson":"1"},
-{"no":"26","question":"______ ____ _____ - Should be used when a single document has a unique style, usually they are declared in the head section by using <style> tag","answer":"Internal Style Sheets","exam":"midterm","lesson":"1"},
+{"no":"26","question":"______ ____ _____ - Should be used when a single document has a unique style, usually they are declared in the head section by using style tag","answer":"Internal Style Sheets","exam":"midterm","lesson":"1"},
 {"no":"27","question":"______ ____ _____ - Is an ideal method when the style is applied to many pages. ","answer":"External Style Sheets","exam":"midterm","lesson":"1"},
 {"no":"28","question":"An _______ ____ _____ allows changes on the look of an entire web site by changing one file. Each page must link to the style sheet using the <link> tag the browser will read the style definitions from the file ","answer":"External Style Sheets","exam":"midterm","lesson":"1"},
 {"no":"29","question":"True or False: Every statement must have a selector and a declaration.","answer":"True","exam":"midterm","lesson":"1"},
