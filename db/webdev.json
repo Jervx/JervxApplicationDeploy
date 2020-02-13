@@ -79,8 +79,8 @@
 {"no":"75","question":"What is the output of the following code:\r\n\r\n<br><br><pre style=\"text-align: left; font-size:14px;color:gray; font-family:monospace\">\r\n\r\n        function calculateAge(birthYear,currentYear){\r\n            return currentYear - birthYear;\r\n        }\r\n\r\n        var currentYear = 2020;\r\n        var birthYear = 2000;\r\n        \r\n        var guessedAge = calculateAge(birthYear,currentYear);\r\n        document.write(guessedAge);\r\n        \r\n<\/pre>","answer":"20","exam":"midterm","lesson":"1"},
 {"no":"76","question":"True or False: With a function, you can use the same code many times with different arguments, to produce different results.","answer":"True","exam":"midterm","lesson":"1"},
 {"no":"77","question":"The __ Operator Invokes the Function","answer":"()","exam":"midterm","lesson":"1"},
-{"no":"78","question":"True or False: Scripts cannot be placed in the <body>, or in the <head> section of an HTML page, or in both.","answer":"False","exam":"midterm","lesson":"1"},
-{"no":"79","question":"Write True if the syntax is correct\r\nElse Write False\r\n\r\n<br><pre style=\"text-align: left; font-size:14px;color:gray; font-family:monospace\">\r\n         <link rel=\"stylesheet\" src=\"myScript1.js\">\r\n<\/pre>","answer":"False","exam":"midterm","lesson":"1"},
+{"no":"78","question":"True or False: Scripts cannot be placed in the body, or in the head section of an HTML page, or in both.","answer":"False","exam":"midterm","lesson":"1"},
+{"no":"79","question":"Write True if the syntax is correct\r\nElse Write False\r\n\r\n<br><pre style=\"text-align: left; font-size:14px;color:gray; font-family:monospace\">\r\n         <code style=\"color:gray\"><link rel=\"stylesheet\" src=\"myScript1.js\"><code>\r\n<\/pre>","answer":"False","exam":"midterm","lesson":"1"},
 {"no":"80","question":"True or False: You can place a limited amount of Script inside your HTML files","answer":"False","exam":"midterm","lesson":"1"}
 ]
 }
