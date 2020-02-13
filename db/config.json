@@ -1,0 +1,16 @@
+{
+    "quizes":[
+        {
+            "subj":"webdev",
+            "name":"Web Development",
+            "exam":"midterm",
+            "url":"https://jervx.github.io/JervxApplicationDeploy/db/webdev.json"
+        },
+        {
+            "subj":"inpr",
+            "name":"Intermediate Programming",
+            "exam":"midterm",
+            "url":"https://jervx.github.io/JervxApplicationDeploy/db/inpr.json"
+        }
+    ]
+}
