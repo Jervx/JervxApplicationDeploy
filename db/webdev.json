@@ -18,7 +18,7 @@
 {"no":"13","question":"True or False FOSI style sheets are themselves written in SGML","answer":"True","exam":"midterm","lesson":"1"},
 {"no":"14","question":" it is a set of instructions to a web browser on how to display various elements on a web page","answer":"Style Sheet","exam":"midterm","lesson":"1"},
 {"no":"15","question":"What CSS stands for?","answer":"Cascading style Sheet\r\n","exam":"midterm","lesson":"1"},
-{"no":"16","question":"___________ - Are just text files, or text embedded in the head of an html document, that help separate content from appearance.","answer":"Sylesheet","exam":"midterm","lesson":"1"},
+{"no":"16","question":"___________ - Are just text files, or text embedded in the head of an html document, that help separate content from appearance.","answer":"Stylesheet","exam":"midterm","lesson":"1"},
 {"no":"17","question":"True or False The content of a page goes into an HTML file. And the appearance goes into style sheet.","answer":"True","exam":"midterm","lesson":"1"},
 {"no":"18","question":"it is the part of a statement which identifies page elements, normally the HTML element you want to style","answer":"selector","exam":"midterm","lesson":"1"},
 {"no":"19","question":"The part of a statement which tells a browser how selected elements should be drawn\r\n","answer":"Declaration","exam":"midterm","lesson":"1"},
