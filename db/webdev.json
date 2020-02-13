@@ -55,7 +55,7 @@
 {"no":"50","question":"________ is used in millions of Web pages to improve the design, validate forms, detect browsers, create cookies, and much more.","answer":"JavaScript","exam":"midterm","lesson":"1"},
 {"no":"51","question":"is the most popular scripting language on the internet, and works in all major browsers, such as Internet Explorer, Mozilla, Firefox, Netscape, Opera.\r\n","answer":"JavaScript","exam":"midterm","lesson":"1"},
 {"no":"52","question":"are used to store data","answer":"Variables","exam":"midterm","lesson":"1"},
-{"no":"53","question":"is a \"container\" for information you want to store. A variable's value can change during the script. You can refer to a variable by name to see its value or to change its value.","answer":"Variable","exam":"midterm","lesson":"1"},
+{"no":"53","question":"is a \"container\" for information you want to store, also its value can change during the script. You can refer to a variable by name to see its value or to change its value.","answer":"Variable","exam":"midterm","lesson":"1"},
 {"no":"54","question":"give all assignment operators in javascript (should be in order and separated with comma ',' )","answer":"=,+=,-=,*=,\/=,%=","exam":"midterm","lesson":"1"},
 {"no":"55","question":"This symbol means equal to","answer":"==","exam":"midterm","lesson":"1"},
 {"no":"56","question":"This symbol means equal to (checks for both value and type)","answer":"===","exam":"midterm","lesson":"1"},
