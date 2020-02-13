@@ -50,47 +50,7 @@
 {"no":"45","question":"The ________ ______ matches all elements that are descendants of a specified element.","answer":"descendant selector","exam":"midterm","lesson":"1"},
 {"no":"46","question":"The _______ ____ selects all elements that are the children of a specified element.","answer":"child selector","exam":"midterm","lesson":"1"},
 {"no":"47","question":"The ______ _____ ___ selects all elements that are the adjacent siblings of a specified element.","answer":"adjacent sibling selector","exam":"midterm","lesson":"1"},
-{"no":"48","question":"The ______ ______ ____ selects all elements that are siblings of a specified element.","answer":"g<head>
-<style>
-div ~ p {
-  background-color: yellow;
-}
-</style>
-</head>
-<body>
-
-<p>Paragraph 1.</p>
-
-<div>
-  <p>Paragraph 2.</p>
-</div>
-
-<p>Paragraph 3.</p>
-<code>Some code.</code>
-<p>Paragraph 4.</p>
-
-</body>
-<head>
-<style>
-div ~ p {
-  background-color: yellow;
-}
-</style>
-</head>
-<body>
-
-<p>Paragraph 1.</p>
-
-<div>
-  <p>Paragraph 2.</p>
-</div>
-
-<p>Paragraph 3.</p>
-<code>Some code.</code>
-<p>Paragraph 4.</p>
-
-</body>
-eneral sibling selector","exam":"midterm","lesson":"1"},
+{"no":"48","question":"The ______ ______ ____ selects all elements that are siblings of a specified element.","answer":"general sibling selector","exam":"midterm","lesson":"1"},
 {"no":"49","question":"this selector is used to select the element that is the nth child, of a particular type, of its parent.","answer":":nth-of-type()","exam":"midterm","lesson":"1"},
 {"no":"50","question":"________ is used in millions of Web pages to improve the design, validate forms, detect browsers, create cookies, and much more.","answer":"JavaScript","exam":"midterm","lesson":"1"},
 {"no":"51","question":"is the most popular scripting language on the internet, and works in all major browsers, such as Internet Explorer, Mozilla, Firefox, Netscape, Opera.\r\n","answer":"JavaScript","exam":"midterm","lesson":"1"},
