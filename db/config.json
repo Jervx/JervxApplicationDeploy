@@ -4,7 +4,7 @@
             "subj":"riph",
             "name":"The Readings In Philippine History",
             "exam":"midterm",
-            "url":"/riph.json"
+            "url":"https://jervx.github.io/JervxApplicationDeploy/db/riph.json"
         },     
         {
             "subj":"webdev",
