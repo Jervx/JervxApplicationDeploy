@@ -1,6 +1,6 @@
 {
     "quizes":[
-         {
+         /*{
             "subj":"riph",
             "name":"The Readings In Philippine History",
             "exam":"midterm",
@@ -17,6 +17,6 @@
             "name":"Intermediate Programming",
             "exam":"midterm",
             "url":"https://jervx.github.io/JervxApplicationDeploy/db/inpr.json"
-        }
+        }*/
     ]
 }
