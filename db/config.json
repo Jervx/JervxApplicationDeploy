@@ -1,6 +1,8 @@
 {
     "quizes":[
-            "name":"Riph",
-            "url":"https://jervx.github.io/JervxApplicationDeploy/inpr.json";
+            {
+                "name":"Riph",
+                "url":"https://jervx.github.io/JervxApplicationDeploy/inpr.json";
+            }
         ]
 }
